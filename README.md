@@ -21,6 +21,7 @@
 ## 🔧 Current Projects
 
 - 🍺 **[Homebrew Tap](https://github.com/justinhuangcode/homebrew-tap)** - All my tools, one fast brew install away.
+- ✍️ **[Astro-Theme-Note](https://github.com/justinhuangcode/astro-theme-note)** - An Astro blog theme that believes text itself is beautiful.
 - 🎨 **[BrowserCLI](https://github.com/justinhuangcode/browsercli)** - A local-first browser rendering CLI for live preview, browser control, and DevTools capture.
 - 🌐 **[BrowserTap](https://github.com/justinhuangcode/browsertap)** - A real-time browser control CLI for live tab capture, DOM interaction, and agent automation.
 - 🍪 **[BrowserX](https://github.com/justinhuangcode/browserx)** - A cross-platform browser cookie extraction CLI for session replay, authentication, and automation.

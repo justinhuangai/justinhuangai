@@ -21,6 +21,7 @@
 ## 🔧 当前项目
 
 - 🍺 **[Homebrew Tap](https://github.com/justinhuangcode/homebrew-tap)** - 我所有的工具，一次快速 brew install 即达。
+- ✍️ **[Astro-Theme-Note](https://github.com/justinhuangcode/astro-theme-note)** - 一款相信文字本身即是美的 Astro 博客主题。
 - 🎨 **[BrowserCLI](https://github.com/justinhuangcode/browsercli)** - 本地优先的浏览器渲染命令行工具，支持实时预览、浏览器控制与 DevTools 数据采集。
 - 🌐 **[BrowserTap](https://github.com/justinhuangcode/browsertap)** - 实时浏览器控制命令行工具，支持活跃标签捕获、DOM 交互与 Agent 自动化。
 - 🍪 **[BrowserX](https://github.com/justinhuangcode/browserx)** - 跨平台浏览器 Cookie 提取命令行工具，支持会话重放、身份认证与自动化。
